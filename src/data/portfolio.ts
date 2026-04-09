@@ -3,16 +3,15 @@ export const personalInfo = {
   title: "Data Scientist",
   bio: "As a Data Science and AI professional, I have enabled teams to make better data-driven decisions ranging from Branding, Understanding Customer Behavior, and Customer Service Analytics, Ocean Logistic, to Supply Chain Inventory and Labor Planning.",
   tagline: "I solve business' tough questions with AI and Data Science solutions.",
-  profileImage: "/images/profile-placeholder.JPEG", 
+  profileImage: "/images/profile-placeholder.jpeg", // ✅ FIXED
 };
 
 export const socials = {
   github: "https://github.com/Masha-M-Stephen",
   linkedin: "https://www.linkedin.com/in/masha-m-stephen1/",
   email: "stephenmasha@rocketmail.com",
-  instagram: "https://www.instagram.com/masha.m.armani/", // Add later
+  instagram: "https://www.instagram.com/masha.m.armani/",
 };
-
 export const navLinks = [
   { label: "Home", href: "#home" },
   { label: "About Me", href: "#about" },
