@@ -46,8 +46,7 @@ export default function Home() {
                   Planning.
                 </p>
                 <p className="text-lg font-semibold text-foreground">
-                  I solve business&apos; tough questions with AI & Data Science
-                  solutions.
+                  I solve business problems and improve processes with AI and Data Science solutions.
                 </p>
 
                 {/* Key areas */}
